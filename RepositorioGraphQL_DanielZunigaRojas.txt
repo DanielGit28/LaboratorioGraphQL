@@ -3,4 +3,4 @@ Componentes
 Laboratorio GraphQL
 Daniel Zúñiga Rojas
 
-Repositorio link: https://github.com/DanielGit28/Laboratorio6
+Repositorio link: https://github.com/DanielGit28/LaboratorioGraphQL
